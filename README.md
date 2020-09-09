@@ -36,3 +36,5 @@ The Set Goal mode is to release the position to go to for the automatic navigati
 
 
 The Set Pose mode is to redefine the position of the car on the map. If it is used for a long time, interfered by external forces, or the ground is uneven, it may cause the map to shift, and the KUBOT car will not know the actual position, causing the car to enter a trek. Use this mode to reset the position of the car on the map.
+
+>Click the red frame or blue frame to swap.
