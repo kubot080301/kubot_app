@@ -8,7 +8,7 @@
 Download this package, then put kubot_app.apk into the phone and install it. If you don't know how to install apk, please read [this](https://sites.google.com/site/lohos2nchu/shou-jiapp-ying-yong/install-apk-apps).
 
 # 2. How to use
-1. Connect Android phone wifi to KOBOT robot.
+1. Connect Android phone WIFI to KOBOT robot.
 2. Open this app, enter ros master ip. 
 
 3. After clicking the connection, you can see the picture below
