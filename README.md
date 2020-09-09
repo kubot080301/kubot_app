@@ -13,7 +13,7 @@ Download this package, then put kubot_app.apk into the phone and install it. If 
 
 3. After clicking the connection, you can see the picture below
 
-
+![](https://i.imgur.com/67151Kw.png)
 
 >Press and hold the map mode to switch. Press and drag the white blocks in the map to perform functions
 
