@@ -21,7 +21,7 @@ Download this package, then put kubot_app.apk into the phone and install it. If 
 
 The lidar SLAM map created by KOBOT robot. The black dots are obstacles, walls, etc., the white areas are walkable places, and the gray areas are unknown areas.
 
-![#c5f015](https://placehold.it/20/c5f015/000000?text=+) GREEN FRAME:
+- ![#15f03c](https://via.placeholder.com/15/15f03c/000000?text=+) `GREEN FRAME` :
 
 Remote control handle. You can click and drag to remotely control the car. The remote control handle has a speed percentage. It is recommended to control the remote control mode at 50%. Push it slowly or lightly press it to gr
 een to rotate in place.
