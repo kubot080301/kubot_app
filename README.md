@@ -17,7 +17,7 @@ Download this package, then put kubot_app.apk into the phone and install it. If 
 
 >Press and hold the map mode to switch. Press and drag the white blocks in the map to perform functions
 
-![#f03c15](https://placehold.it/20/f03c15/000000?text=+) RED FRAME : 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `RED FRAME` : 
 
 The lidar SLAM map created by KOBOT robot. The black dots are obstacles, walls, etc., the white areas are walkable places, and the gray areas are unknown areas.
 
@@ -26,11 +26,11 @@ The lidar SLAM map created by KOBOT robot. The black dots are obstacles, walls, 
 Remote control handle. You can click and drag to remotely control the car. The remote control handle has a speed percentage. It is recommended to control the remote control mode at 50%. Push it slowly or lightly press it to gr
 een to rotate in place.
 
-![#1589F0](https://placehold.it/20/1589F0/000000?text=+) BLUE FRAME : 
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `BLUE FRAME`
 
 The live picture returned by the cams. If no cams is installed than nine circles will be displayed.
 
-![#1589F0](https://placehold.it/20/FFFFF/000000?text=+) YELLOW FRAME : 
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `YELLOW FRAME`
 
 The Set Goal mode is to release the position to go to for the automatic navigation. By pressing and rotating, you will see another arrow. The position of the arrow on the map and the direction to guide it is for the KUBOT car to automatically go to the position and attitude .
 
